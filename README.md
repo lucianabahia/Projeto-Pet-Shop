@@ -7,5 +7,5 @@
 
 ## Pessoas Contribuidoras
 
-| [<img src="https://avatars.githubusercontent.com/u/70717919?s=70&v=4" width=115><br><sub>Luciana Bahia</sub>](https://github.com/lucianabahia) | [<img src="https://avatars.githubusercontent.com/u/58301411?v=4" width=115><br><sub>Guilherme Santos</sub>](https://github.com/guisantos13) |  [<img src="https://avatars.githubusercontent.com/u/55546267?v=4" width=115><br><sub>Priscila Miranda</sub>](https://github.com/priscilafraser) |
+| [<img src="https://avatars.githubusercontent.com/u/97451826?v=4" width=115><br><sub>Luciana Bahia</sub>](https://github.com/lucianabahia) | [<img src="https://avatars.githubusercontent.com/u/63247260?v=4" width=115><br><sub>Guilherme Santos</sub>](https://github.com/guisantos13) |  [<img src="https://avatars.githubusercontent.com/u/55546267?v=4" width=115><br><sub>Priscila Miranda</sub>](https://github.com/priscilafraser) |
 | :---: | :---: | :---: |
